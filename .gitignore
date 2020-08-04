@@ -2,5 +2,8 @@ bfg.coding.exercise\bin
 bfg.coding.exercise\obj
 bfg.coding.exercise\node_modules
 bfg.coding.exercise\content\build
+
+bfg.coding.exercise\package-lock.json
+
 bfg.coding.exercise.test\bin
 bfg.coding.exercise.test\obj
