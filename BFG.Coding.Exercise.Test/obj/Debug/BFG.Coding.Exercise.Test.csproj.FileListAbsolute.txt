@@ -1,0 +1,13 @@
+C:\Users\michaelmickler\Desktop\Bfg.Coding.Exercise\BFG.Coding.Exercise.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\michaelmickler\Desktop\Bfg.Coding.Exercise\BFG.Coding.Exercise.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\michaelmickler\Desktop\Bfg.Coding.Exercise\BFG.Coding.Exercise.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\michaelmickler\Desktop\Bfg.Coding.Exercise\BFG.Coding.Exercise.Test\bin\Debug\BFG.Coding.Exercise.Test.dll
+C:\Users\michaelmickler\Desktop\Bfg.Coding.Exercise\BFG.Coding.Exercise.Test\bin\Debug\BFG.Coding.Exercise.Test.pdb
+C:\Users\michaelmickler\Desktop\Bfg.Coding.Exercise\BFG.Coding.Exercise.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\michaelmickler\Desktop\Bfg.Coding.Exercise\BFG.Coding.Exercise.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\michaelmickler\Desktop\Bfg.Coding.Exercise\BFG.Coding.Exercise.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\michaelmickler\Desktop\Bfg.Coding.Exercise\BFG.Coding.Exercise.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\michaelmickler\Desktop\Bfg.Coding.Exercise\BFG.Coding.Exercise.Test\obj\Debug\BFG.Coding.Exercise.Test.csprojAssemblyReference.cache
+C:\Users\michaelmickler\Desktop\Bfg.Coding.Exercise\BFG.Coding.Exercise.Test\obj\Debug\BFG.Coding.Exercise.Test.csproj.CopyComplete
+C:\Users\michaelmickler\Desktop\Bfg.Coding.Exercise\BFG.Coding.Exercise.Test\obj\Debug\BFG.Coding.Exercise.Test.dll
+C:\Users\michaelmickler\Desktop\Bfg.Coding.Exercise\BFG.Coding.Exercise.Test\obj\Debug\BFG.Coding.Exercise.Test.pdb
