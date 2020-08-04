@@ -151,8 +151,6 @@
     <Content Include="data_filled.json" />
     <Content Include="webpack.config.js" />
     <Content Include="package.json" />
-    <Content Include="build_spa.ps1" />
-    <Content Include="package-lock.json" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
@@ -243,11 +241,11 @@
   <Target Name="CopyRoslynFiles" AfterTargets="AfterBuild" Condition="!$(Disable_CopyWebApplication) And '$(OutDir)' != '$(OutputPath)'">
     <ItemGroup>
       <RoslynFiles Include="$(CscToolPath)\*" />
-    </ItemGroup>    
+    </ItemGroup>
     <MakeDir Directories="$(WebProjectOutputDir)\bin\roslyn" />
     <Copy SourceFiles="@(RoslynFiles)" DestinationFolder="$(WebProjectOutputDir)\bin\roslyn" SkipUnchangedFiles="true" Retries="$(CopyRetryCount)" RetryDelayMilliseconds="$(CopyRetryDelayMilliseconds)" />
   </Target>
-  <Target Name="AfterBuild">    
+  <Target Name="AfterBuild">
     <Exec Command="webpack --mode=production" />
   </Target>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
